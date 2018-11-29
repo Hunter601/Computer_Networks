@@ -1,0 +1,5 @@
+websitetest.com 184.168.221.17
+example.com 93.184.216.34
+google.com 172.217.167.46
+youtube.com 216.58.203.174
+jiit.ac.in 125.21.244.193
